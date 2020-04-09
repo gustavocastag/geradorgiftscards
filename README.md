@@ -11,3 +11,10 @@ Um pequeno script em python 3 gerador de gift cards para voce tentar a sorte na 
 
 O programa estara em ingles, mas tudo que voce tem que fazer é, setar o numero de codigos aleatórios que voce ira gerar dentro de um arquivo, depois voce tera que setar o local em que o arquivo sera salvo (se voce não configurar um local o arquivo sera salvo no mesmo local em que o script foi executado.
 
+Simples né? :)
+
+
+**Acompanhe meus outros projetos em**
+
+Github https://github.com/gustavocastag
+
